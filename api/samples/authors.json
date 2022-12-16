@@ -1,0 +1,52 @@
+[
+  {
+    "name": "George",
+    "last": "Orwell",
+    "birth_date": "25-06-1903"
+  },
+  {
+    "name": "Ernest",
+    "last": "Hemingway",
+    "birth_date": "21-07-1899"
+  },
+  {
+    "name": "Roald",
+    "last": "Dahl",
+    "birth_date": "13-09-1916"
+  },
+  {
+    "name": "Kurt",
+    "last": "Vonnegut",
+    "birth_date": "11-11-1922"
+  },
+  {
+    "name": "Stephen",
+    "last": "King",
+    "birth_date": "21-09-1947"
+  },
+  {
+    "name": "Suzanne",
+    "last": "Collins",
+    "birth_date": "11-08-1962"
+  },
+  {
+    "name": "Dan",
+    "last": "Brown",
+    "birth_date": "22-06-1964"
+  },
+  {
+    "name": "Alice",
+    "last": "Sebold",
+    "birth_date": "06-09-1963"
+  },
+  {
+    "name": "Andrzej",
+    "last": "Sapkowski",
+    "birth_date": "21-06-1948"
+  },
+  {
+    "name": "Olga",
+    "last": "Tokarczuk",
+    "birth_date": "29-01-1962"
+  }
+]
